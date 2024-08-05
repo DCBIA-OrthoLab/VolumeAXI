@@ -1,0 +1,13 @@
+K9_impaction_DATA_Goodname/
+Output/
+patient_to_path.csv
+patient_to_path3.csv
+output/
+data_cropped/
+
+Original_data/
+Preprocessed_data/
+Resampled/
+Data_training/
+__pycache__/
+.cache/
